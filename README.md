@@ -9,8 +9,14 @@ Feel free to clone the repo and play around with the various api consumption fil
 
 ```
    $ cd python-web-services
-   $ python stock.py
+   $ pip install -r requiremens.txt
 ```
-
-#### Todo
-* Twitter api consumption for microblogging
+#### Tweetr web service
+For the tweetr.py, create your twitter app and export the keys in your .env file.
+Ensure you have the following set:
+```
+    CONSUMER_KEY='<my key>'
+    CONSUMER_SECRET='<my secret>'
+    ACCESS_TOKEN='<my access token>'
+    ACCESS_TOKEN_SECRET='<my token secret>'
+```
