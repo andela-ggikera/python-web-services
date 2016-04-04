@@ -13,4 +13,4 @@ Feel free to clone the repo and play around with the various api consumption fil
 ```
 
 #### Todo
-* Tweeter api consumption for microblogging
+* Twitter api consumption for microblogging
