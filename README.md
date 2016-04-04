@@ -11,3 +11,6 @@ Feel free to clone the repo and play around with the various api consumption fil
    $ cd python-web-services
    $ python stock.py
 ```
+
+#### Todo
+* Tweeter api consumption for microblogging
